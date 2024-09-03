@@ -1,0 +1,100 @@
+.bandeira{
+width: 600px;
+height: 420px;
+border: 1px solid black;
+display: block;
+margin: 10px;
+float: left;
+}
+.lin3{
+width: 600px;
+height: 140px;
+display: block;
+float: left;
+}
+.corazulforte{
+background-color: blue;
+}
+
+.corbranco{
+background-color: white;
+}
+
+.corvermelho{
+background-color: red;
+}
+
+.col3{
+width: 200px;
+height: 420px;
+display: block;
+float: left;
+}
+
+.corazulforte{background-color: blue;}
+.corbranco{background-color: white;}
+.corvermelho{background-color: red;}
+
+.lin3{width: 600px;
+    height: 140px;
+    display: block;
+    float: left;
+
+}
+.preto{background-color: black;}
+.vermelho{background-color: red;}
+.amarelo{background-color: yellow;}
+
+.col3{
+    width: 200px;
+    height: 420px;
+    display: block;
+    float: left;
+    }
+    .verde{background-color: green;}
+
+.bola{
+width: 200px;
+height: 200px;
+display: block;
+float: left;
+border-radius: 100%;
+margin-top: 125px;
+margin-left: 200px;
+
+
+}
+
+.lishor{
+width: 600px;
+height: 100px;
+display: block;
+position:relative;
+top: 150px;
+}
+.lisvert{width: 100px;
+    height: 420px;
+    position:relative;
+    left: 150px;
+top: -100px;
+
+
+
+}
+.lishor{
+    width: 600px;
+    height: 100px;
+    display: block;
+    position:relative;
+    top: 150px;}
+    
+.lisvert{
+    width: 100px;
+    height: 420px;
+    position:relative;
+    left: 150px;
+    top: -100px;
+}
+.laranja{background-color: orange;}
+
+    
